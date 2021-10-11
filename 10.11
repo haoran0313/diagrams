@@ -1,1 +1,141 @@
-<mxfile host="app.diagrams.net" modified="2021-10-11T11:50:41.578Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" version="15.5.0" etag="HbBAuW1EaBVJ4z2wFcuq" type="github"><diagram id="ddgxNNlj1IWW2rfAX_Wx">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-11T12:11:14.838Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="hUlAEV8Ry5Ba2Ct2dWi-" version="15.5.0" type="github">
+  <diagram id="ddgxNNlj1IWW2rfAX_Wx" name="Page-1">
+    <mxGraphModel dx="642" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-1" value="赞助策划书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="30" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-2" value="活动目的" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="150" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VmZJ9Y9UDkvZEWIECSF9-3" target="VmZJ9Y9UDkvZEWIECSF9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VmZJ9Y9UDkvZEWIECSF9-3" target="VmZJ9Y9UDkvZEWIECSF9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VmZJ9Y9UDkvZEWIECSF9-3" target="VmZJ9Y9UDkvZEWIECSF9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-3" value="宣传计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-4" value="传单&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%B4%BB%E5%8A%A8%E7%9B%AE%E7%9A%84%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22100%22%20y%3D%22150%22%20width%3D%2260%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="250" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-6" value="小册子&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E4%BC%A0%E5%8D%95%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgba(0%20%2C%200%20%2C%200%20%2C%200)%20%3B%20font-family%3A%20monospace%20%3B%20font-size%3A%200px%26quot%3B%26gt%3B%253CmxGraphModel%253E%253Croot%253E%253CmxCell%2520id%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25221%2522%2520parent%253D%25220%2522%252F%253E%253CmxCell%2520id%253D%25222%2522%2520value%253D%2522%25E6%25B4%25BB%25E5%258A%25A8%25E7%259B%25AE%25E7%259A%2584%2522%2520style%253D%2522rounded%253D0%253BwhiteSpace%253Dwrap%253Bhtml%253D1%253B%2522%2520vertex%253D%25221%2522%2520parent%253D%25221%2522%253E%253CmxGeometry%2520x%253D%2522100%2522%2520y%253D%2522150%2522%2520width%253D%252260%2522%2520height%253D%252220%2522%2520as%253D%2522geometry%2522%252F%253E%253C%252FmxCell%253E%253C%252Froot%253E%253C%252FmxGraphModel%253E%26lt%3B%2Fspan%26gt%3B%22%20style%3D%22whiteSpace%3Dwrap%3Bhtml%3D1%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22210%22%20y%3D%22170%22%20width%3D%2250%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="280" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-7" value="海报展报" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="310" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VmZJ9Y9UDkvZEWIECSF9-10" target="VmZJ9Y9UDkvZEWIECSF9-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VmZJ9Y9UDkvZEWIECSF9-10" target="VmZJ9Y9UDkvZEWIECSF9-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VmZJ9Y9UDkvZEWIECSF9-10" target="VmZJ9Y9UDkvZEWIECSF9-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VmZJ9Y9UDkvZEWIECSF9-10" target="VmZJ9Y9UDkvZEWIECSF9-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-10" value="商家补偿计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="460" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-12" value="冠名权" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="460" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-13" value="颁奖现场宣传" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="490" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-14" value="现场鸣谢" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="520" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-15" value="校媒体报道" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="550" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VmZJ9Y9UDkvZEWIECSF9-19" target="VmZJ9Y9UDkvZEWIECSF9-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-19" value="活动预期效果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="350" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-20" value="多少人、多长时间、活动方案、" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="350" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VmZJ9Y9UDkvZEWIECSF9-22" target="VmZJ9Y9UDkvZEWIECSF9-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VmZJ9Y9UDkvZEWIECSF9-22" target="VmZJ9Y9UDkvZEWIECSF9-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="690" />
+              <mxPoint x="190" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-22" value="商家的权力与义务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="680" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-24" value="宣传权（可以什么时候、可以怎样宣传）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="680" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-26" value="赞助费、配合社团/学校的安排并作出相应的调整" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="720" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VmZJ9Y9UDkvZEWIECSF9-28" target="VmZJ9Y9UDkvZEWIECSF9-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-28" value="活动双方&lt;br&gt;（活动安排）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="402.5" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-29" value="活动地点&lt;br&gt;活动对象&lt;br&gt;主办方&lt;br&gt;协办方" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VmZJ9Y9UDkvZEWIECSF9-31" target="VmZJ9Y9UDkvZEWIECSF9-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-31" value="活动流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="187.5" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-32" value="前期准备：海报、展板、校广播、网站&lt;br&gt;中期开展：活动计划、邀请老师嘉宾&lt;br&gt;后期反馈：奖品和证书、（作品展和颁奖典礼）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="170" width="255" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VmZJ9Y9UDkvZEWIECSF9-34" target="VmZJ9Y9UDkvZEWIECSF9-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-34" value="经费预算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="587.5" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-35" value="宣传、奖项设置、人员、证书、杂费" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="585" width="225" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-37" value="联系方式" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="790" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-39" value="市场分析&lt;br&gt;（经济效益分析）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="70" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-41" value="可行性分析" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="110" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VmZJ9Y9UDkvZEWIECSF9-42" target="VmZJ9Y9UDkvZEWIECSF9-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZJ9Y9UDkvZEWIECSF9-42" value="活动策划书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="187.5" width="80" height="35" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
