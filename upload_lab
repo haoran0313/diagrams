@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-14T03:34:52.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="RNo395viqI_uKWTkTHZr" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-14T03:36:49.248Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="paoALI4bQ9sYd_Qz8Udd" version="15.5.2" type="github">
   <diagram id="LIGOupLPh29jA6jbOCXq" name="Page-1">
     <mxGraphModel dx="2036" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -185,6 +185,15 @@
         </mxCell>
         <mxCell id="1W7PVh_3zlxsWXySQwPQ-18" value="include($_GET[&#39;file&#39;].&quot;.php&quot;) , upload: png,jepg,gif&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-380" y="1350" width="540" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1W7PVh_3zlxsWXySQwPQ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="1W7PVh_3zlxsWXySQwPQ-20" target="1W7PVh_3zlxsWXySQwPQ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1W7PVh_3zlxsWXySQwPQ-20" value="上传得到东西都被打印出来" style="whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="1430" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1W7PVh_3zlxsWXySQwPQ-22" value="perl upload？" style="whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="248.75" y="1430" width="161.25" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
