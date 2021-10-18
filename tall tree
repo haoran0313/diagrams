@@ -1,21 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2021-10-18T00:10:39.414Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="SYHfbWpGsMx2kpWxPp0s" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-18T00:10:48.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="HziX3CoxIEMD5mM4YDUg" version="15.5.2" type="github">
   <diagram id="iH6iS8wCofFWaw2FWwKJ" name="Page-1">
     <mxGraphModel dx="834" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="v0_1VPbRukb1IsFISMzv-1" value="函数的复合，逆映射和反函数，初等函数与双曲函数" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="70" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="v0_1VPbRukb1IsFISMzv-2" value="数列的极限" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="70" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="v0_1VPbRukb1IsFISMzv-3" value="函数的极限" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="70" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="v0_1VPbRukb1IsFISMzv-4" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="70" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="v0_1VPbRukb1IsFISMzv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v0_1VPbRukb1IsFISMzv-5" target="v0_1VPbRukb1IsFISMzv-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="305" as="targetPoint" />
