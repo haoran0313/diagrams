@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-17T23:57:02.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="70SPwQ1fO67ANfKHtC_T" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-18T00:01:31.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="5Ab_c83Obqglu6bG8ULp" version="15.5.2" type="github">
   <diagram id="iH6iS8wCofFWaw2FWwKJ" name="Page-1">
     <mxGraphModel dx="834" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,8 +21,17 @@
             <mxPoint x="330" y="305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v0_1VPbRukb1IsFISMzv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v0_1VPbRukb1IsFISMzv-5" target="v0_1VPbRukb1IsFISMzv-10">
+        <mxCell id="v0_1VPbRukb1IsFISMzv-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v0_1VPbRukb1IsFISMzv-5" target="v0_1VPbRukb1IsFISMzv-31">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v0_1VPbRukb1IsFISMzv-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v0_1VPbRukb1IsFISMzv-5" target="v0_1VPbRukb1IsFISMzv-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="225" y="489.9999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="305" />
+              <mxPoint x="90" y="415" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="v0_1VPbRukb1IsFISMzv-5" value="极限（左右极限）存在" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="295" width="130" height="20" as="geometry" />
@@ -39,9 +48,6 @@
         <mxCell id="v0_1VPbRukb1IsFISMzv-8" value="收敛" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="290" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="v0_1VPbRukb1IsFISMzv-10" value="发散" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="460" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="v0_1VPbRukb1IsFISMzv-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="v0_1VPbRukb1IsFISMzv-14" target="v0_1VPbRukb1IsFISMzv-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -54,11 +60,11 @@
         <mxCell id="v0_1VPbRukb1IsFISMzv-14" value="（局部）有界" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="275" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v0_1VPbRukb1IsFISMzv-15" value="保号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="295" width="50" height="20" as="geometry" />
+        <mxCell id="v0_1VPbRukb1IsFISMzv-15" value="（局部）保号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="295" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="v0_1VPbRukb1IsFISMzv-16" value="保序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="315" width="50" height="20" as="geometry" />
+        <mxCell id="v0_1VPbRukb1IsFISMzv-16" value="（局部）保序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="315" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="v0_1VPbRukb1IsFISMzv-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v0_1VPbRukb1IsFISMzv-21" target="v0_1VPbRukb1IsFISMzv-8">
           <mxGeometry relative="1" as="geometry" />
@@ -82,6 +88,18 @@
         </mxCell>
         <mxCell id="v0_1VPbRukb1IsFISMzv-28" value="必有一个收敛子列" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="335" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v0_1VPbRukb1IsFISMzv-31" value="用无穷小量表示" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="350" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v0_1VPbRukb1IsFISMzv-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v0_1VPbRukb1IsFISMzv-34" target="v0_1VPbRukb1IsFISMzv-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v0_1VPbRukb1IsFISMzv-34" value="等于自身" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="187.5" y="400" width="62.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v0_1VPbRukb1IsFISMzv-37" value="连续" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="400" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
