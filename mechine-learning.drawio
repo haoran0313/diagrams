@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2021-11-29T14:40:02.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="15.8.5" etag="XvPI4SdX1my2zLYfB0E8" type="github"><diagram id="BOHqIZOoxbvtPlERU77q">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-29T15:04:19.513Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="JVkvRzSu9dTwssNOZRUY" version="15.8.5" type="github">
+  <diagram id="BOHqIZOoxbvtPlERU77q" name="Page-1">
+    <mxGraphModel dx="1209" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YIEfVYyc1aclGDnzX-Ps-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;non-supervisor learning&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="210" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="YIEfVYyc1aclGDnzX-Ps-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YIEfVYyc1aclGDnzX-Ps-3" target="YIEfVYyc1aclGDnzX-Ps-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="130" />
+              <mxPoint x="540" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YIEfVYyc1aclGDnzX-Ps-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="YIEfVYyc1aclGDnzX-Ps-3" target="YIEfVYyc1aclGDnzX-Ps-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIEfVYyc1aclGDnzX-Ps-3" value="classification" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="310" y="100" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIEfVYyc1aclGDnzX-Ps-4" value="anomaly detection" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="310" y="235" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIEfVYyc1aclGDnzX-Ps-5" value="recomanded system" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="310" y="370" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIEfVYyc1aclGDnzX-Ps-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="YIEfVYyc1aclGDnzX-Ps-7" target="YIEfVYyc1aclGDnzX-Ps-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="-40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="-70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YIEfVYyc1aclGDnzX-Ps-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="YIEfVYyc1aclGDnzX-Ps-7" target="YIEfVYyc1aclGDnzX-Ps-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YIEfVYyc1aclGDnzX-Ps-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="YIEfVYyc1aclGDnzX-Ps-7" target="YIEfVYyc1aclGDnzX-Ps-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIEfVYyc1aclGDnzX-Ps-7" value="k means" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="570" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIEfVYyc1aclGDnzX-Ps-8" value="comparison" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="570" y="160" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YIEfVYyc1aclGDnzX-Ps-11" value="&lt;font style=&quot;font-size: 18px&quot;&gt;多次初始化&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="820" y="-90" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YIEfVYyc1aclGDnzX-Ps-12" value="&lt;font style=&quot;font-size: 18px&quot;&gt;最小的cost&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="815" y="-20" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YIEfVYyc1aclGDnzX-Ps-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="YIEfVYyc1aclGDnzX-Ps-14" target="YIEfVYyc1aclGDnzX-Ps-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIEfVYyc1aclGDnzX-Ps-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="YIEfVYyc1aclGDnzX-Ps-14" target="YIEfVYyc1aclGDnzX-Ps-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YIEfVYyc1aclGDnzX-Ps-14" value="&lt;font style=&quot;font-size: 18px&quot;&gt;选取聚类数量&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="815" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YIEfVYyc1aclGDnzX-Ps-16" value="&lt;font style=&quot;font-size: 18px&quot;&gt;手肘规则&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YIEfVYyc1aclGDnzX-Ps-18" value="&lt;span style=&quot;font-size: 18px&quot;&gt;实际情况&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
